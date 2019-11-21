@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\MaasHesaplama\MaasHesaplama\bin\Debug\MaasHesaplama.exe.config
+C:\Users\Asus\source\repos\MaasHesaplama\MaasHesaplama\bin\Debug\MaasHesaplama.exe
+C:\Users\Asus\source\repos\MaasHesaplama\MaasHesaplama\bin\Debug\MaasHesaplama.pdb
+C:\Users\Asus\source\repos\MaasHesaplama\MaasHesaplama\obj\Debug\MaasHesaplama.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\MaasHesaplama\MaasHesaplama\obj\Debug\MaasHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\MaasHesaplama\MaasHesaplama\obj\Debug\MaasHesaplama.exe
+C:\Users\Asus\source\repos\MaasHesaplama\MaasHesaplama\obj\Debug\MaasHesaplama.pdb
